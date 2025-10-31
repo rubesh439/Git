@@ -2,4 +2,4 @@
 
 this is git course helpful for developers.
 
-# this is main branch
+This is the final correct version after merge.
