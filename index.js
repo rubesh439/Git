@@ -1,1 +1,5 @@
-console.log("Welcome to Git");
+console.log("Welcome to play");
+
+for (let i = 0; i <= 5; i++) {
+  console.log("Hello world");
+}
